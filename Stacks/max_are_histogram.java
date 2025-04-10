@@ -36,7 +36,7 @@ public class max_are_histogram {
                 s.pop();
             }
             if(s.isEmpty()){
-                nsr[i] = arr.length;
+                nsr[i] = -1;
             }else{
                 nsr[i] = s.peek();
             }
