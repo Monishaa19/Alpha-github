@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.*; //modify code to enqueue after increasing frequency
 
 public class first_repeating_char_stream_charecters {
 
