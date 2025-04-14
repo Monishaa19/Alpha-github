@@ -33,6 +33,7 @@ public class LinkedList {
 
         if (head == null) {
             head = tail = newNode;
+						 return;
 
         }
         // step 2 linking it with the orignal head
